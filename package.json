@@ -11,6 +11,8 @@
     "pre-commit": "npm run lint",
     "commitmsg": "commitlint -e $GIT_PARAMS",
     "test:cover": "rm -rf ./coverage && ng test --code-coverage"
+    "coveralls" : "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
+    "build:gh-pages:demo1": "ng build --prod --output-path=gh-pages/demo1/ --base-href=/dashboardAPI/demo1/"
   },
   "private": true,
   "dependencies": {
