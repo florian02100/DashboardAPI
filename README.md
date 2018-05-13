@@ -1,3 +1,6 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9a1c3b97aa7f4649b0b836cdf631d9f3)](https://www.codacy.com/app/florian02100/dashboardAPI?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=florian02100/dashboardAPI&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/florian02100/dashboardAPI.svg?branch=master)](https://travis-ci.org/florian02100/dashboardAPI)
+[![Coverage Status](https://coveralls.io/repos/github/florian02100/dashboardAPI/badge.svg)](https://coveralls.io/github/florian02100/dashboardAPI)
 # DashboardAPI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
